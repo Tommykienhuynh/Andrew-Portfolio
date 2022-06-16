@@ -2,7 +2,7 @@ import React from 'react'
 
 import jennyAoiDai from "../../assets/jennyAoiDai.jpg";
 import jennyAoiDai2 from "../../assets/jennyAoiDai2.jpg";
-import imgOne from "../../assets/snapBack.jpg";
+import imgOne from "../../assets/snapBack.webp";
 import imgSeven from "../../assets/squatTree.jpg";
 import fence from "../../assets/fence.jpg";
 

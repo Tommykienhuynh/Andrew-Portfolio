@@ -2,9 +2,9 @@ import {React, useEffect, useState} from "react";
 import { motion, useAnimation } from "framer-motion";
 
 
-import imgOne from "../assets/snapBack.jpg";
+import imgOne from "../assets/snapBack.webp";
 import imgTwo from "../assets/kevinGrad.jpg";
-import imgThree from "../assets/jennyLamp.jpg";
+import imgThree from "../assets/jennyLamp2.jpg";
 import imgFour from "../assets/nicoleAoiDai.jpg";
 import imgFive from "../assets/weddingStanding2.jpg";
 import imgSix from "../assets/jennyNicole.jpg";
